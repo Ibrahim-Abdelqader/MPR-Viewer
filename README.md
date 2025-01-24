@@ -5,9 +5,17 @@ A multi-planar reconstruction (MPR) program displays the 4 views for medical ima
 
 ---
 ## Table of contents
+- [Video](#video)
 - [Features](#features)
 - [Technologies](#technologies)
 - [How to use](#how-to-use)
+
+---
+
+## video
+<video src="https://github.com/user-attachments/assets/94c5e3e1-eb01-4c1e-bab5-1446492c8f22" width="0" controls>
+  Your browser does not support the video tag.
+</video>
 
 ---
 
@@ -39,3 +47,12 @@ Run python3 main.py in the terminal.
 ```Terminal
 $ python3 main.py
 ```
+
+---
+
+## References
+
+- [VTK](https://vtk.org/)
+- [PyQt5](https://pypi.org/project/PyQt5/)
+
+---
