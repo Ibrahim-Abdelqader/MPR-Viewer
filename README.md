@@ -1,6 +1,6 @@
 # MPR Viewer
-<img src="https://github.com/user-attachments/assets/3e606e68-24dd-4f9c-b3b3-0e10bf4532d7" width="500" />
-<img src="https://github.com/user-attachments/assets/0b89d867-3df1-42f4-9bd1-c251da12e808" width="500" />
+<img src="https://github.com/user-attachments/assets/3e606e68-24dd-4f9c-b3b3-0e10bf4532d7" width="400" />
+<img src="https://github.com/user-attachments/assets/0b89d867-3df1-42f4-9bd1-c251da12e808" width="400" />
 A multi-planar reconstruction (MPR) program displays the 4 views for medical images: sagittal, coronal, axial, and 3D view.
 
 ---
