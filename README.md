@@ -6,7 +6,7 @@ A multi-planar reconstruction (MPR) program displays the 4 views for medical ima
 
 ---
 ## 🗒️ Table of content
-- [Video](#video)
+- [📽️ Video](#video)
 - [✨ Features](#-features)
 - [🛠️ Technologies](#-Technologies)
 - [🚀 How to use](#-how-to-use)
