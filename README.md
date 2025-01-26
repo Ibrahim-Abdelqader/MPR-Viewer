@@ -4,7 +4,7 @@
 A multi-planar reconstruction (MPR) program displays the 4 views for medical images: sagittal, coronal, axial, and 3D view.
 
 ---
-## Table of contents
+## Table of content
 - [Video](#video)
 - [Features](#features)
 - [Technologies](#technologies)
