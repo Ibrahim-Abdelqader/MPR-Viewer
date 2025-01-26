@@ -4,11 +4,12 @@
 A multi-planar reconstruction (MPR) program displays the 4 views for medical images: sagittal, coronal, axial, and 3D view.
 
 ---
-## Table of content
+## 🗒️ Table of content
 - [Video](#video)
-- [Features](#features)
-- [Technologies](#technologies)
-- [How to use](#how-to-use)
+- [✨ Features](#-features)
+- [🛠️ Technologies](#-Technologies)
+- [🚀 How to use](#-how-to-use)
+- [📚 References](#-References)
 
 ---
 
@@ -19,7 +20,7 @@ A multi-planar reconstruction (MPR) program displays the 4 views for medical ima
 
 ---
 
-## Features
+## ✨ Features
 - Open a medical data in (.mhd & .raw) format.
 - Zoom (in-out) using the mouse.
 - Scroll through slices in each view.
@@ -30,14 +31,14 @@ A multi-planar reconstruction (MPR) program displays the 4 views for medical ima
 - Ability to maximize each viewer and restore it.
 - Ability to resize each viewer and swap them.
 
-## Technologies
+## 🛠️ Technologies
 - Python
 - PyQt5
 - VTK
 
 ---
 
-## How to use
+## 🚀 How to use
 #### Installation
 ```Terminal
 $ pip install -r requirements.txt
