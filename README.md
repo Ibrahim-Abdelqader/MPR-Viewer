@@ -15,7 +15,7 @@ A multi-planar reconstruction (MPR) program displays the 4 views for medical ima
 - [📧 Contact](#-contact)
 ---
 
-## video
+## 📽️ video
 <video src="https://github.com/user-attachments/assets/94c5e3e1-eb01-4c1e-bab5-1446492c8f22" width="0" controls>
   Your browser does not support the video tag.
 </video>
